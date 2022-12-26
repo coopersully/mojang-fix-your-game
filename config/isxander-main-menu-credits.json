@@ -5,7 +5,7 @@
 				"text": "MFYG Client v1.0",
 				"clickEvent": {
 					"action": "open_url",
-					"value": "https://coopersully.me/projects/mojang-fix-your-game"
+					"value": "https://github.com/coopersully/mojang-fix-your-game/"
 				}
 			}
 		]
@@ -16,7 +16,7 @@
 				"text": "MFYG Client v1.0",
 				"clickEvent": {
 					"action": "open_url",
-					"value": "https://coopersully.me/projects/mojang-fix-your-game"
+					"value": "https://github.com/coopersully/mojang-fix-your-game/"
 				}
 			}
 		]
