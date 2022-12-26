@@ -3,6 +3,7 @@
 		"bottom_right": [
 			{
 				"text": "MFYG Client v1.0",
+				"color": "white",
 				"clickEvent": {
 					"action": "open_url",
 					"value": "https://github.com/coopersully/mojang-fix-your-game/"
@@ -14,6 +15,7 @@
 		"bottom_right": [
 			{
 				"text": "MFYG Client v1.0",
+				"color": "dark_gray",
 				"clickEvent": {
 					"action": "open_url",
 					"value": "https://github.com/coopersully/mojang-fix-your-game/"
