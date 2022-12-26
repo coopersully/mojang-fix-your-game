@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/KTsQ54F.png">
+  <img src="https://i.imgur.com/wcIV7wU.png">
 </p>
 
 A Minecraft: Java Edition client fine-tuned for optimized gameplay. It contains 50+ modifications all with the sole purpose of either optimizing performance or slightly tweaking subtleties such as third person animations, transitions, etc.
